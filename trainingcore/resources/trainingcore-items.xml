@@ -65,7 +65,7 @@
                         <persistence type="property"/>
                     </attribute>
                     <attribute qualifier="isBuyable" type="boolean">
-                        <description>Product is buyable</description>
+                        <description>Product is buyable description</description>
                         <modifiers/>
                         <persistence type="property"/>
                     </attribute>
